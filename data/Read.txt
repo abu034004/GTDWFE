@@ -1,0 +1,6 @@
+1. 'Ac_Sa_Ca_Kl_Ec' folder contains features for Acinetobacter spp., Klebsiella spp., Campylobacter spp., Salmonella spp., and Escherichia spp.
+
+2. 'Ps_Vb_En' folder contains features for Pseudomonas spp., Vibrio spp., and Enterobacter spp.
+
+3. '621D_features_Legend.xlsx' file contains legends for all features and classes
+

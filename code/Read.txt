@@ -1,0 +1,6 @@
+1. GT_Feature_Selection.R: Game theoretic dynamic weighting based feature evaluation (GTDWFE) 
+2. SVM_best_features.R: To evaluate k feature subsets (1<=k<=30) both for oversampling and undersampling
+3. feature subsets_30.R: To create k feature subsets (1<=k<=30)
+4. Feat_subset_4_pseudo_vib_enterobac.R: To select features for Pseudomonas, Vibrio and Enterobacter
+5. SVM_oversampling_pseudo_vib_enterobac.R: To construct confusion matrix for oversampling
+6. SVM_undersampling_pseudo_vib_enterobac.R: To construct confusion matrix for undersampling
