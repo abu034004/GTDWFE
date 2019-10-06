@@ -1,2 +1,0 @@
-1. RRelief_Feature_Selection.R: To select features using RReliefF
-2. 'Best 30 features' folder contains top-30 features both for game theory-based approach and RReliefF

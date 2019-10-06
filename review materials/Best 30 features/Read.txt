@@ -1,2 +1,0 @@
-1. 'delta_3' folder contains best 30 features for game theory-based approach when delta = 3
-2. 'relief' folder contains best 30 features for RReliefF
