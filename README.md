@@ -1,6 +1,6 @@
 # Antimicrobial Resistance Prediction for Gram-Negative Bacteria via Game Theory-Based Feature Evaluation
 
-All R scripts and raw data are available here. If you find our work useful, please cite our following 3 papers.
+All R scripts and raw data are available here. If you find our work useful, please cite our following papers.
 
 Citations:
 1.  Chowdhury, A.S., Call, D.R. and Broschat, S.L., 2020. PARGT: A software tool for predicting antimicrobial resistance in bacteria. Scientific Reports.
