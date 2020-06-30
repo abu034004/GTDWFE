@@ -1,6 +1,6 @@
 # Antimicrobial Resistance Prediction for Gram-Negative Bacteria via Game Theory-Based Feature Evaluation
 
-All R scripts and raw data are available here. If you find our work useful, please cite our following papers.
+All R scripts and raw data are available here. If you find our work useful, please cite our following 2 papers.
 
 Citations:
 1.	Chowdhury, A.S., Call, D.R and and Broschat, S.L., 2019. Antimicrobial Resistance Prediction for Gram-Negative Bacteria via Game Theory-Based Feature Evaluation. Scientific Reports.
